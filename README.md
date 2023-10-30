@@ -1,4 +1,4 @@
-##This is an on going Project, will be adding more.
+##This is an ongoing Project, will be adding more.
 
 # Earthquake-Prediction
 
@@ -22,3 +22,5 @@ Random forest is a machine learning algorithm that is used for both classificati
 ## Conclusion:
 
 Both the Mean Squared Error (MSE) and R-squared (R2) score serve as valuable metrics for assessing model performance. In general, a superior model is characterized by a lower MSE and a higher R2 score. This is primarily due to the MSE's role in quantifying the average disparity between predicted and actual values; a lower MSE signifies a model that is making more precise predictions. On the other hand, the R2 score evaluates a model's ability to elucidate the proportion of variance in the target variable, with a higher R2 score indicating a greater capacity to account for variability in the said variable. From the results of this project, it can be deduced that the Random Forest model outperforms all other models in predicting earthquake magnitude accurately.
+
+**![alt text](http://url/to/img.png)**
